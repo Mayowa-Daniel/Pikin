@@ -13,4 +13,5 @@
   (lib (name "Switch_Keyboard_Hybrid")(type "KiCad")(uri "C:/Users/Mayowa/Downloads/keyswitch-kicad-library/footprints/Switch_Keyboard_Hybrid.pretty")(options "")(descr ""))
   (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "C:/Users/Mayowa/Downloads/keyswitch-kicad-library/footprints/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
   (lib (name "kbd")(type "KiCad")(uri "C:/Users/Mayowa/Downloads/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "graphics")(type "KiCad")(uri "${KIPRJMOD}/graphics.pretty")(options "")(descr ""))
 )

@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"MX12,MX8,MX2,MX4,MX5,MX7,MX6,MX9,MX11,MX10,MX3,MX1";"SW_Kailh_Choc_V2";12;"MX-NoLED";;;
+2;"TouchPad";"SW_PUSH_6mm_H8.5mm";1;"TouchPad";;;
+3;"Select";"SW_PUSH_6mm_H8.5mm";1;"Select";;;
+4;"USB1";"HRO-TYPE-C-31-M-12";1;"HRO-TYPE-C-31-M-12";;;
+5;"R1,R2";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"5.1k";;;
+6;"Home";"SW_PUSH_6mm_H8.5mm";1;"Home";;;
+7;"RSB";"SW_PUSH_6mm_H8.5mm";1;"RSB";;;
+8;"Start";"SW_PUSH_6mm_H8.5mm";1;"Start";;;
+9;"U1";"Brook_Universal_Fighting_Board";1;"brook_ufb";;;
+10;"LSB";"SW_PUSH_6mm_H8.5mm";1;"LSB";;;
